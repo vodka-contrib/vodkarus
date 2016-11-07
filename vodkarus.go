@@ -1,6 +1,6 @@
-// Package vodkalogrus provides a middleware for vodka that logs request details
+// Package vodkarus provides a middleware for vodka that logs request details
 // via the logrus logging library
-package vodkalogrus
+package vodkarus
 
 import (
 	"net/http"
